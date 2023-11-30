@@ -1,0 +1,3 @@
+Nombre = MIGUEL 
+
+print (Nombre)
